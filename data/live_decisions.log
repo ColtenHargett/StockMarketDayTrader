@@ -170,3 +170,7 @@
 2026-11-12T21:17:27.828608-05:00  ORDER sell 1.8768 MSFT @~520.84  (target 48%)
 2026-11-12T21:17:28.027170-05:00  tick done: 2 order(s), equity ~$95,705.98
 2026-11-13T20:54:50.384377-05:00  no new bars since last tick; holding
+2026-11-16T23:15:35.327101-05:00  ORDER sell 47.7989 AAPL @~344.60  (target 32%)
+2026-11-16T23:15:35.442279-05:00  ORDER sell 31.3253 MSFT @~536.29  (target 32%)
+2026-11-16T23:15:35.540431-05:00  ORDER buy 21.6133 AMZN @~260.64  (target 32%)
+2026-11-16T23:15:35.653402-05:00  tick done: 3 order(s), equity ~$91,620.03
